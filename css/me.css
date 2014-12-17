@@ -1,0 +1,26 @@
+#name_id {
+color: #08483F;
+min-height: 65px;
+border-bottom: 1px solid #08483F;
+margin-bottom: 20px;
+}
+
+a{
+color: #10917e;
+}
+
+.main_color{
+	color: #10917e;
+}
+
+.big_text{
+	font-size: 2em;
+}
+
+#header{
+min-height: 20%;
+}
+
+#padding{
+padding-bottom: 75px;
+}
